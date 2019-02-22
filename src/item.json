@@ -1,0 +1,39 @@
+{
+    "items":[
+        {
+            "id":1,
+            "name":"Dark Pant",
+            "price":"Rs. 1,049",
+            "image":"https://static-01.daraz.com.np/original/c371b3f31b1b62814af2c0b4a87b2983.jpg",
+            "quantity":1
+        },
+        {
+            "id":2,
+            "name":"Joggers",
+            "price":"Rs. 1,499",
+            "image":"https://static-01.daraz.com.np/original/080046b76dabee806666d82bbe98b649.jpg",
+            "quantity":1
+        },
+        {
+            "id":3,
+            "name":"Takura Chukka Casual",
+            "price":"Rs. 1,950",
+            "image":"https://static-01.daraz.com.np/original/d4b82fcb46ebba98038d4b7bbadec1b6.jpg",
+            "quantity":1
+        },
+        {
+            "id":4,
+            "name":"Timberland Army Green",
+            "price":"Rs. 15,000",
+            "image":"https://static-01.daraz.com.np/original/b11f0ecef1521840fd119f574f21c796.jpg",
+            "quantity":1
+        },
+        {
+            "id":5,
+            "name":"Silicon Hooded Jacket",
+            "price":"Rs. 1,970",
+            "image":"https://static-01.daraz.com.np/p/9dc89eac09b5613fb5d8bc36425833c6.jpg",
+            "quantity":1
+        }
+    ]
+}
