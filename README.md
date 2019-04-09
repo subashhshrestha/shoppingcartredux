@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-```
+```diff
 +this text is highlighted in green
 -this text is highlighted in red
 ```
